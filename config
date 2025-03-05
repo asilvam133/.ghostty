@@ -1,6 +1,7 @@
-font-family = TX-02
+font-family = Berkeley Mono
 font-size = 18
-adjust-cell-height = 50%
+font-feature = feat on
+adjust-cell-height = 70%
 window-padding-x = 50
 window-decoration = false
 window-padding-balance = true
